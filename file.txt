@@ -4,5 +4,3 @@ Line 2 from feature branch
 
 Line 2 from main branch
 
-add line 3
-add line 3
